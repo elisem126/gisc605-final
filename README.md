@@ -1,4 +1,5 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# GitHub Codespaces ♥️ Jupyter Notebooks 
+Elise.Sawa01@student.csulb.edu
 
 Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
 
